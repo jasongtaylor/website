@@ -9,4 +9,4 @@ to work with Git courses.
 
 Cool stuff goes here
 
-Edit on example branch.
+An edit on example branch.
